@@ -87,6 +87,20 @@ Contributions are welcome. You can contribute by:
 - Fixing bugs
 - Adding explanations or complexity analysis
 
+## 🤝 Contribution Structure
+
+When adding a new implementation:
+
+DataStructure/
+└── Language/
+    └── implementation_file
+
+Example:
+
+Queue/
+└── CPP/
+    └── queue_basics.cpp
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
